@@ -1,4 +1,4 @@
-# DesignPatterns - Técnicas de (Strategy, Chain of Responsibility, Template Method, State, Command e Observer)
+# DesignPatterns - Padrões Comportamentais - Técnicas de (Strategy, Chain of Responsibility, Template Method, State, Command e Observer) 
 
 
 
